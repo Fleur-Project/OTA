@@ -1,0 +1,14 @@
+# 25/10/2026 Bliss - Rom v20.1
+• Initial Bliss Rom build
+• Based on OS3.0.302.0.WNRMIXM
+• KSUN v3.4.2 (33405-06) & SuSFS 2.3.0
+• Drop JamesDSP
+• Bringback spatial audio support
+• overlay: Disable app launch blur
+• audio: Add fallback SW A2DP routes
+• parts: thermal: Add game packages list for gaming profile
+• Fix the codec2 store allocation in the QTI services
+• Add face unlock blobs & sepolicy: Label face unlock HAL
+• [fix] sepolicy: Allow power HAL to set CPU DMA latency hints
+# Source: 
+• Add gesture control for Freeform & it's setting to choose between gesture or button controls
